@@ -7,13 +7,16 @@ studies and providing researchs in this field.
 
 I have good knowledge in the following software development fields in order:
 ► Mobile Development.
-<<Native: Android || ios.
+<<Native: Android || iOS.
 <<Cross-Plateform: Flutter.
+
 ► Web Development.
 <<Front-End: (HTML5/CSS/JS).
-<<Back-End: (PHP/SQL/nodeJS).
+<<Back-End: (PHP/MySQL/nodeJS).
+
 ► Desktop Development.
 <<Java.
 <<C++.
+<<Python.
 
 "The Only Bad Workout is the one that didn't happened".⚽📚
