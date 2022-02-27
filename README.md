@@ -6,6 +6,7 @@ Have a passion for Computer Science, Looking forward to continuing
 studies and providing researchs in this field.
 
 I have good knowledge in the following software development fields in order:
+
 ► Mobile Development.
 <<Native: Android || iOS.
 <<Cross-Plateform: Flutter.
