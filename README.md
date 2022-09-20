@@ -24,4 +24,3 @@ I have good knowledge in the following software development fields in order:
 ►ViewBinding.
 
 Effective communication is very important to me, so let's stay in touch!
-"The Only Bad Workout is the one that didn't happened".⚽📚
